@@ -4,7 +4,7 @@ from aioconsole import aprint
 import ssl
 
 # Invite code here
-code = "TwilightVault"
+code = "SbAw6XPq"
 
 async def main():
     tokens = open("tokens.txt").read().splitlines()
